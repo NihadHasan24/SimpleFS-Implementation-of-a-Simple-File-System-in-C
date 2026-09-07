@@ -1,4 +1,4 @@
-# SimpleFS-Implementation-of-a-Simple-File-System-in-C
+# SimpleFS:Implementation of a Simple File System in C
 
 # SimpleFS
 SimpleFS is the a small educational file system implemented in C and stored inside a fixed-size binary disk image. The project demonstrates superblocks, inodes, allocation bitmaps, directory entries, direct block pointers, and first-fit allocation.
